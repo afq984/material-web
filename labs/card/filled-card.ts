@@ -7,8 +7,8 @@
 import {customElement} from 'lit/decorators.js';
 
 import {Card} from './internal/card.js';
-import {styles as filledStyles} from './internal/filled-styles.css.js';
-import {styles as sharedStyles} from './internal/shared-styles.css.js';
+import {styles as filledStyles} from './internal/filled-styles.js';
+import {styles as sharedStyles} from './internal/shared-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

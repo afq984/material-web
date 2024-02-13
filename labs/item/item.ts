@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {Item} from './internal/item.js';
-import {styles} from './internal/item-styles.css.js';
+import {styles} from './internal/item-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

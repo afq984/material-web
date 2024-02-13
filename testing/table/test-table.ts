@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {TestTable} from './internal/test-table.js';
-import {styles as testTableStyles} from './internal/test-table-styles.css.js';
+import {styles as testTableStyles} from './internal/test-table-styles.js';
 
 export {type TestTableTemplate} from './internal/test-table.js';
 

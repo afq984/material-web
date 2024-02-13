@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {Elevation} from './internal/elevation.js';
-import {styles} from './internal/elevation-styles.css.js';
+import {styles} from './internal/elevation-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

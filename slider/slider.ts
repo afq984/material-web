@@ -6,9 +6,9 @@
 
 import {customElement} from 'lit/decorators.js';
 
-import {styles as forcedColorsStyles} from './internal/forced-colors-styles.css.js';
+import {styles as forcedColorsStyles} from './internal/forced-colors-styles.js';
 import {Slider} from './internal/slider.js';
-import {styles} from './internal/slider-styles.css.js';
+import {styles} from './internal/slider-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

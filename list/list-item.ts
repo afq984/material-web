@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {ListItemEl as ListItem} from './internal/listitem/list-item.js';
-import {styles} from './internal/listitem/list-item-styles.css.js';
+import {styles} from './internal/listitem/list-item-styles.js';
 
 export {type ListItemType} from './internal/listitem/list-item.js';
 

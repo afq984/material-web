@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {Divider} from './internal/divider.js';
-import {styles} from './internal/divider-styles.css.js';
+import {styles} from './internal/divider-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

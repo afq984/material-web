@@ -7,7 +7,7 @@
 import {customElement} from 'lit/decorators.js';
 
 import {Ripple} from './internal/ripple.js';
-import {styles} from './internal/ripple-styles.css.js';
+import {styles} from './internal/ripple-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

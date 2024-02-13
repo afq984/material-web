@@ -7,8 +7,8 @@
 import {customElement} from 'lit/decorators.js';
 
 import {OutlinedSegmentedButtonSet} from './internal/outlined-segmented-button-set.js';
-import {styles as outlinedStyles} from './internal/outlined-styles.css.js';
-import {styles as sharedStyles} from './internal/shared-styles.css.js';
+import {styles as outlinedStyles} from './internal/outlined-styles.js';
+import {styles as sharedStyles} from './internal/shared-styles.js';
 
 declare global {
   interface HTMLElementTagNameMap {

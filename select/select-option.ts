@@ -6,7 +6,7 @@
 
 import {customElement} from 'lit/decorators.js';
 
-import {styles} from '../menu/internal/menuitem/menu-item-styles.css.js';
+import {styles} from '../menu/internal/menuitem/menu-item-styles.js';
 
 // TODO(b/236285090): update with HCM best practices
 import {SelectOptionEl} from './internal/selectoption/select-option.js';
